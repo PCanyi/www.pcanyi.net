@@ -1,8 +1,8 @@
-cache/
-build/
+#cache/*
+#build/
 
 
-!**/wp-includes/**
+!**/wp-includes/
 !**/wp-content/plugins/
 !**/wp-content/themes/
 
@@ -28,3 +28,4 @@ sitemap.xml.gz
 .idea
 .idea/*
 
+wordpress/wp-includes/Test/
