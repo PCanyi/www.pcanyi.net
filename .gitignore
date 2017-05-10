@@ -2,9 +2,9 @@ cache/
 build/
 
 
-!**/wp-includes/
-!**/wp-content/plugins/
-!**/wp-content/themes/
+!**/wp-includes/**
+!**/wp-content/plugins/**
+!**/wp-content/themes/**
 
 
 *.log
